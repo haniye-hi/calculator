@@ -1,0 +1,62 @@
+
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+   <meta chaset="UTF-8">
+   <meta http-equiv="X-UA-Compatible" content="IE=edge">
+   <meta  name="viewport" content="width=device-width, initial-scale=0.1">
+   <title>Document</title>
+   <link rel="stylesheet" href="style.css">
+ </head>
+ <body>
+  <p>calculator</p>
+  <div>
+   <input type="text"  name="input1" value="≡  standard">
+   <input type="text"  name="input2" value="History      Memory" style="float:right;" width="170px" height="1px">
+   <input type="text"  name="imput3" value="0"; dir="rtl" >
+   <input type="text"  name="lnput4" value="There's no history yet"; style="float:right;" width="170px" height="1px">
+   <input type="text"  name="input6" value="MC      MR      M+      M-      MS"; >
+  </div>
+   <table style="float:left;">
+     <div >
+       <tr>
+         <td  class="class2">%</td>
+         <td  class="class2">√</td>
+         <td  class="class2">x²</td>
+         <td  class="class2">1⁄x</td>
+       </tr>
+       <tr>
+         <td  class="class2">CE</td>
+         <td  class="class2">C</td>
+         <td  class="class2">&#9003</td>
+         <td  class="class2">÷</td>
+       </tr>
+     </div>
+     <tr>
+       <td  class="class1">7</td>
+       <td  class="class1">8</td>
+       <td  class="class1">9</td>
+       <td  class="class2">×</td>
+     </tr>
+     <tr>
+       <td  class="class1">4</td>
+       <td  class="class1">5</td>
+       <td  class="class1">6</td>
+       <td  class="class2">–</td>
+     </tr>
+     <tr>
+       <td class="class1">1 </td>
+       <td class="class1">2 </td>
+       <td class="class1">3 </td>
+       <td class="class2">+</td>
+      </tr>
+      <tr>
+       <td  class="class2">±</td>
+       <td  class="class1">0</td>
+       <td  class="class2">/</td>
+       <td  class="class2">=</td>
+      </tr>
+    </table>
+    <!--<input type="text" name="fname"; value="0"; style="float:right;width:0px;height:0px;">-->
+  </body>
+</html>
